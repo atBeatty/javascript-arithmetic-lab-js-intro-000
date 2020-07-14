@@ -17,14 +17,16 @@ function increment(n) {
   return n++;
 }
 
-functin decrement(n) {
+function decrement(n) {
   return n--;
 }
 
+
+
 function makeInt(string) {
-  return parse
+  return parseInt(string);
 }
 
 function preserveDecimal(string) {
-
+  return parseFloat(string);
 }
