@@ -1,14 +1,12 @@
-
-var number = 10
-
-function add5() {
-  number += 5
+function add() {
+  return 1 + 80;
+  
 }
 
-function divideBy3() {
-  number /= 3
+function makeInt(string) {
+  return parse
 }
 
-divideBy3()
+function preserveDecimal(string) {
 
-console.log(number)
+}
