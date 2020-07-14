@@ -12,4 +12,3 @@ function divideBy3() {
 divideBy3()
 
 console.log(number)
-
