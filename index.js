@@ -13,13 +13,16 @@ function multiply(a, b) {
   return a * b;
 }
 
-var n = 5;
 function increment(n) {
-  return n++;
+  var n = 5;
+  n++;
+  return n;
 }
 
 function decrement(n) {
-  return n--;
+  var n = 5;
+  n--;
+  return n;
 }
 
 
