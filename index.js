@@ -13,6 +13,14 @@ function multiply(a, b) {
   return a * b;
 }
 
+function increment(n) {
+  return n++;
+}
+
+functin decrement(n) {
+  return n--;
+}
+
 function makeInt(string) {
   return parse
 }
