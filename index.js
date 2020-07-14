@@ -15,13 +15,13 @@ function multiply(a, b) {
 
 function increment(n) {
   var n += 1;
-  
+
   return n;
 }
 
 function decrement(n) {
   var n -= 1;
-  
+
   return n;
 }
 
