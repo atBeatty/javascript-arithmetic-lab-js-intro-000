@@ -13,6 +13,7 @@ function multiply(a, b) {
   return a * b;
 }
 
+var n = 5;
 function increment(n) {
   return n++;
 }
